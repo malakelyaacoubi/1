@@ -1,0 +1,8 @@
+git add newFile.txt
+git commit -m "added new file"
+
+
+[A[A$git add newFile.txt
+git commit -m "added new file"
+[A[A[B$
+Pc@DESKTOP-KETO7NQ MINGW64 ~/Desktop/github 1 (master)
